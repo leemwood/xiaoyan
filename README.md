@@ -1,4 +1,4 @@
-# Mini Transformer LM
+# xiaoyan
 
 微型 Transformer 语言模型 —— 纯 NumPy 手动实现。
 
